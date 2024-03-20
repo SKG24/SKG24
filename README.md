@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skg24&label=Profile%20views&color=0e75b6&style=flat" alt="skg24" /> </p>
 
-- 🔭 Making progress on [HASTHQALA](skg24.github.io/HASTHQALA/)
+- 🔭 Making progress on [HASTHQALA](https://github.com/SKG24/HASTHQALA)
 
 - 🌱 Challenging myself with **Web development**
 
