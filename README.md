@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skg24&label=Profile%20views&color=0e75b6&style=flat" alt="skg24" /> </p>
 
-- 🔭 I’m currently working on [HASTHQALA](skg24.github.io/HASTHQALA/)
+- 🔭 Making progress on [HASTHQALA](skg24.github.io/HASTHQALA/)
 
-- 🌱 I’m currently learning **Web development**
+- 🌱 Challenging myself with **Web development**
 
 - 📫 How to reach me **gupta.sanat@24gmail.com**
 
