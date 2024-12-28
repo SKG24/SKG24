@@ -1,23 +1,48 @@
-<h1 align="center">Hi 👋, I'm Sanat Kumar Gupta</h1>
-<h3 align="center">A Lifelong Learner</h3>
+<h1 align="center" style="background-color:#0e75b6;color:#ffffff;padding:20px;">
+  Hi 👋, I'm Sanat Kumar Gupta
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=skg24&label=Profile%20views&color=0e75b6&style=flat" alt="skg24" /> </p>
-
-- 🌱 Challenging myself with **Web development**
-
-- 📫 How to reach me **gupta.sanat@24gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=skg24&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=skg24&show_icons=true&locale=en&layout=compact" alt="skg24" /></p>
+### 👨‍🎓 **About Me**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skg24&show_icons=true&locale=en" alt="skg24" /></p>
+Hi, my name is **Sanat Kumar Gupta**, currently pursuing **B.Tech** at **Thapar Institute of Engineering and Technology, Patiala**. I am passionate about learning new technologies and implementing them in real-world projects.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skg24&" alt="skg24" /></p>
+- 🌟 I have experience in **Machine Learning (ML)**, **Artificial Intelligence (AI)**, **Data Science**, **Frontend Development**, and **Full Stack Development**.
+- 🎯 This year, I participated in **GirlScript Summer of Code Extended 2024**, where I secured **180st rank across India**.
+- 🚀 I am constantly challenging myself with new projects and exploring diverse tech stacks.
 
+![GSSoC24_Stats](https://github.com/user-attachments/assets/fe7a9010-30fa-4bd4-80af-dd32d9f85171)
 
+---
+
+### 🌱 **Currently Exploring**
+<div style="background-color:#f5f5f5;padding:10px;border-radius:5px;">
+  <ul>
+    <li><b>Web Development:</b> Enhancing my skills in React, Tailwind CSS, and MERN stack.</li>
+    <li><b>AI and Data Science:</b> Working on innovative solutions using ML and Python.</li>
+    <li><b>Full Stack Projects:</b> Building scalable and dynamic applications.</li>
+  </ul>
+</div>
+
+---
+
+<h3 align="center">📊 GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=skg24&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=skg24&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=skg24" alt="GitHub Streak" />
+</p>
+
+---
