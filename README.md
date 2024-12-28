@@ -10,7 +10,7 @@
 
 ### 👨‍🎓 **About Me**
 
-Hi, my name is **Sanat Kumar Gupta**, currently pursuing **B.Tech** at **Thapar Institute of Engineering and Technology, Patiala**. I am passionate about learning new technologies and implementing them in real-world projects.
+I am currently pursuing **B.Tech** at **Thapar Institute of Engineering and Technology, Patiala**. I am passionate about learning new technologies and implementing them in real-world projects.
 
 - 🌟 I have experience in **Machine Learning (ML)**, **Artificial Intelligence (AI)**, **Data Science**, **Frontend Development**, and **Full Stack Development**.
 - 🎯 This year, I participated in **GirlScript Summer of Code Extended 2024**, where I secured **180st rank across India**.
