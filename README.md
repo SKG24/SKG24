@@ -8,11 +8,6 @@
 
 **B.Tech Student** at **Thapar Institute of Engineering and Technology, Patiala**
 
-- 🚀 Full Stack Developer with expertise in **MERN Stack** and **Python**
-- 🤖 Machine Learning & AI enthusiast working on innovative solutions
-- 🏆 **GSSoC Extended 2024** participant - **180th rank across India**
-- 💡 Passionate about building scalable applications and solving complex problems
-
 ## Featured Projects
 
 <div align="center">
