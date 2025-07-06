@@ -108,12 +108,6 @@
 
 ## Connect
 
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
+- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/)
 
 ---
-
-<div align="center">
-  <i>⭐️ From <a href="https://github.com/skg24">skg24</a></i>
-</div>
