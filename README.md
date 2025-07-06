@@ -1,48 +1,124 @@
-<h1 align="center" style="background-color:#0e75b6;color:#ffffff;padding:20px;">
-  Hi 👋, I'm Sanat Kumar Gupta
-</h1>
+# Hi 👋, I'm Sanat Kumar Gupta
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=skg24&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
----
+## About Me
 
-### 👨‍🎓 **About Me**
+**B.Tech Student** at **Thapar Institute of Engineering and Technology, Patiala**
 
-I am currently pursuing **B.Tech** at **Thapar Institute of Engineering and Technology, Patiala**. I am passionate about learning new technologies and implementing them in real-world projects.
+- 🚀 Full Stack Developer with expertise in **MERN Stack** and **Python**
+- 🤖 Machine Learning & AI enthusiast working on innovative solutions
+- 🏆 **GSSoC Extended 2024** participant - **180th rank across India**
+- 💡 Passionate about building scalable applications and solving complex problems
 
-- 🌟 I have experience in **Machine Learning (ML)**, **Artificial Intelligence (AI)**, **Data Science**, **Frontend Development**, and **Full Stack Development**.
-- 🎯 This year, I participated in **GirlScript Summer of Code Extended 2024**, where I secured **180st rank across India**.
-- 🚀 I am constantly challenging myself with new projects and exploring diverse tech stacks.
+## Featured Projects
 
-![GSSoC24_Stats](https://github.com/user-attachments/assets/fe7a9010-30fa-4bd4-80af-dd32d9f85171)
-
----
-
-### 🌱 **Currently Exploring**
-<div style="background-color:#f5f5f5;padding:10px;border-radius:5px;">
-  <ul>
-    <li><b>Web Development:</b> Enhancing my skills in React, Tailwind CSS, and MERN stack.</li>
-    <li><b>AI and Data Science:</b> Working on innovative solutions using ML and Python.</li>
-    <li><b>Full Stack Projects:</b> Building scalable and dynamic applications.</li>
-  </ul>
+<div align="center">
+  <a href="https://github.com/skg24/dev-digest">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=skg24&repo=dev-digest&theme=default&hide_border=true" alt="Dev Digest" />
+  </a>
+  <a href="https://github.com/skg24/DistCache">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=skg24&repo=DistCache&theme=default&hide_border=true" alt="DistCache" />
+  </a>
 </div>
 
+<div align="center">
+  <a href="https://github.com/skg24/Marketing-Agency">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=skg24&repo=Marketing-Agency&theme=default&hide_border=true" alt="Marketing Agency" />
+  </a>
+  <a href="https://github.com/skg24/Hasthqala">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=skg24&repo=Hasthqala&theme=default&hide_border=true" alt="Hasthqala" />
+  </a>
+</div>
+
+## Machine Learning & AI
+
+<div align="center">
+  <a href="https://github.com/skg24/ML-Anomaly-Detection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=skg24&repo=ML-Anomaly-Detection&theme=default&hide_border=true" alt="ML Anomaly Detection" />
+  </a>
+  <a href="https://github.com/skg24/Mnist-Neural-Network">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=skg24&repo=Mnist-Neural-Network&theme=default&hide_border=true" alt="MNIST Neural Network" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/skg24/Parameter-Optimization">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=skg24&repo=Parameter-Optimization&theme=default&hide_border=true" alt="Parameter Optimization" />
+  </a>
+  <a href="https://github.com/skg24/Product_Launch_Analyzer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=skg24&repo=Product_Launch_Analyzer&theme=default&hide_border=true" alt="Product Launch Analyzer" />
+  </a>
+</div>
+
+## Data Science & Analytics
+
+<div align="center">
+  <a href="https://github.com/skg24/Data_Science_mini_projects">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=skg24&repo=Data_Science_mini_projects&theme=default&hide_border=true" alt="Data Science Mini Projects" />
+  </a>
+  <a href="https://github.com/skg24/Data-Science-with-R">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=skg24&repo=Data-Science-with-R&theme=default&hide_border=true" alt="Data Science with R" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/skg24/The_SP-500">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=skg24&repo=The_SP-500&theme=default&hide_border=true" alt="S&P 500 Analysis" />
+  </a>
+  <a href="https://github.com/skg24/Clustering">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=skg24&repo=Clustering&theme=default&hide_border=true" alt="Clustering" />
+  </a>
+</div>
+
+## Healthcare & Medical Technology
+
+<div align="center">
+  <a href="https://github.com/skg24/MedSync-Central">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=skg24&repo=MedSync-Central&theme=default&hide_border=true" alt="MedSync Central" />
+  </a>
+  <a href="https://github.com/skg24/MediBot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=skg24&repo=MediBot&theme=default&hide_border=true" alt="MediBot" />
+  </a>
+</div>
+
+## Tools & Utilities
+
+<div align="center">
+  <a href="https://github.com/skg24/System-Monitoring-Script">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=skg24&repo=System-Monitoring-Script&theme=default&hide_border=true" alt="System Monitoring Script" />
+  </a>
+  <a href="https://github.com/skg24/Text_To_Audio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=skg24&repo=Text_To_Audio&theme=default&hide_border=true" alt="Text to Audio" />
+  </a>
+</div>
+
+## Tech Stack
+
+**Languages:** JavaScript, Python, HTML/CSS, SQL, R  
+**Frontend:** React, Next.js, Tailwind CSS  
+**Backend:** Node.js, Express, Django, Flask  
+**Database:** MongoDB, PostgreSQL, MySQL  
+**ML/AI:** TensorFlow, Scikit-learn, Pandas, NumPy  
+**Tools:** Git, VS Code, Postman  
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=skg24&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=skg24&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+</p>
+
+## Connect
+
+- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
+- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
+
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=skg24&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=skg24&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=skg24" alt="GitHub Streak" />
-</p>
-
----
+<div align="center">
+  <i>⭐️ From <a href="https://github.com/skg24">skg24</a></i>
+</div>
