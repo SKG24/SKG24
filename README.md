@@ -28,7 +28,7 @@
 
 <div align="center">
   <a href="https://github.com/skg24/Product_Launch_Analyzer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=skg24&repo=Product_Launch_Analyzer&theme=vue&hide_border=true&cache_seconds=1800" alt="Product Launch Analyzer" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=skg24&repo=Product_Launch_Analyzer&theme=vue&hide_border=true&cache_seconds=2800" alt="Product Launch Analyzer" />
   </a>
 </div>
 
