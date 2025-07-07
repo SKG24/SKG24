@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="https://github.com/skg24/dev-digest">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=skg24&repo=dev-digest&theme=vue&hide_border=true" alt="Dev Digest" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=skg24&repo=dev-digest&theme=vue&hide_border=true&cache_seconds=1800" alt="Dev Digest" />
   </a>
   <a href="https://github.com/skg24/DistCache">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=skg24&repo=DistCache&theme=vue&hide_border=true" alt="DistCache" />
